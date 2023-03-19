@@ -34,7 +34,7 @@ namespace Project_Main.form_thungan
             SqlDataAdapter df= new SqlDataAdapter(str,Functions.connection);
             df.Fill(dt);
             reportViewer1.LocalReport.DataSources.Clear(); ;
-            reportViewer1.LocalReport.ReportPath = @"C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\Report1.rdlc";
+            reportViewer1.LocalReport.ReportPath = @"D:\c#\nhom1\Project-Main\Report1.rdlc";
             ReportDataSource dts= new ReportDataSource("Billdetail",dt);
             reportViewer1.LocalReport.DataSources.Add(dts);
             reportViewer1.RefreshReport();
