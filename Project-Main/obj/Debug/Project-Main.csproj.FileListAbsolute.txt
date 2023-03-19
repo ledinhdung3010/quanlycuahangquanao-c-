@@ -1,0 +1,386 @@
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.AssemblyReference.cache
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.SuggestedBindingRedirects.cache
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formBtnThongTinHangHoa.resources
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formKho.resources
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formBtnQuanLyTaiKhoan.resources
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formQuanLy.resources
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formLogin.resources
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.FManageSellClothes.resources
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Project_Main.Properties.Resources.resources
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.GenerateResource.cache
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.CoreCompileInputs.cache
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\Project-Main.exe.config
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\Project-Main.exe
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\Project-Main.pdb
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\Guna.UI2.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.CopyComplete
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Project-Main.exe
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Project-Main.pdb
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnNhapVaSuaHangHoa.resources
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnXuatHangHoa.resources
+D:\Download and extraxt\Project-Main\Project-Main\bin\Debug\Project-Main.exe.config
+D:\Download and extraxt\Project-Main\Project-Main\bin\Debug\Project-Main.exe
+D:\Download and extraxt\Project-Main\Project-Main\bin\Debug\Project-Main.pdb
+D:\Download and extraxt\Project-Main\Project-Main\bin\Debug\Guna.UI2.dll
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.AssemblyReference.cache
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.SuggestedBindingRedirects.cache
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Project_Main.CreateControl.ProductItem.resources
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnNhapVaSuaHangHoa.resources
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formBtnThongTinHangHoa.resources
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnXuatHangHoa.resources
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formKho.resources
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formThuNgan.resources
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formBtnQuanLyTaiKhoan.resources
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formQuanLy.resources
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formLogin.resources
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.FManageSellClothes.resources
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Project_Main.Properties.Resources.resources
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.GenerateResource.cache
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.CoreCompileInputs.cache
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.CopyComplete
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Project-Main.exe
+D:\Download and extraxt\Project-Main\Project-Main\obj\Debug\Project-Main.pdb
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.ResolveComReference.cache
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\Project-Main.exe.config
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\Project-Main.exe
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\Project-Main.pdb
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\Guna.UI2.dll
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.AssemblyReference.cache
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.SuggestedBindingRedirects.cache
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.ResolveComReference.cache
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnNhapVaSuaHangHoa.resources
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formBtnThongTinHangHoa.resources
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnXuatHangHoa.resources
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formKho.resources
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formThuNgan.resources
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formBtnQuanLyTaiKhoan.resources
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formQuanLy.resources
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formLogin.resources
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.FManageSellClothes.resources
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Project_Main.Properties.Resources.resources
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.GenerateResource.cache
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.CoreCompileInputs.cache
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.CopyComplete
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Project-Main.exe
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Project-Main.pdb
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\EnvDTE.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\stdole.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\team1\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Project_Main.Form_NhanVien_ThuNgan.Formprint.resources
+D:\c#\team1\Project-Main\Project-Main\obj\Debug\Project_Main.Form_QuanLy.Formquanlydoanhthu.resources
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\Project-Main.exe.config
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\Project-Main.exe
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\Project-Main.pdb
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\Guna.UI2.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\EnvDTE.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\stdole.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.AssemblyReference.cache
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.SuggestedBindingRedirects.cache
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.ResolveComReference.cache
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnNhapVaSuaHangHoa.resources
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formBtnThongTinHangHoa.resources
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnXuatHangHoa.resources
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formKho.resources
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formBtnQuanLyTaiKhoan.resources
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formQuanLy.resources
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Project_Main.Form_QuanLy.Formquanlydoanhthu.resources
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formLogin.resources
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.FManageSellClothes.resources
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Project_Main.Properties.Resources.resources
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.GenerateResource.cache
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.CoreCompileInputs.cache
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.CopyComplete
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Project-Main.exe
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Project-Main.pdb
+D:\Study\Lap-Trinh-Windows-Form\team1\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnThemLoaiSanPham.resources
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\EnvDTE.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\stdole.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnThemLoaiSanPham.resources
+D:\Study\Lap-Trinh-Windows-Form\Project-Main\Project-Main\obj\Debug\Project_Main.Form_QuanLy.Formquanlydoanhthu.resources
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\Project-Main.exe.config
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\Project-Main.exe
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\Project-Main.pdb
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\Guna.UI2.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\EnvDTE.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\stdole.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnNhapVaSuaHangHoa.resources
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnThemLoaiSanPham.resources
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formBtnThongTinHangHoa.resources
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formKho.resources
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formBtnQuanLyTaiKhoan.resources
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formQuanLy.resources
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project_Main.Form_QuanLy.Formquanlydoanhthu.resources
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnXuatHangHoa.resources
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formLogin.resources
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.FManageSellClothes.resources
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project_Main.Properties.Resources.resources
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.CopyComplete
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project-Main.exe
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project-Main.pdb
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project_Main.form_thungan.formthungan.resources
+C:\Users\admin\Documents\Zalo Received Files\Project-Main\Project-Main\obj\Debug\Project_Main.form_thungan.Formprint.resources
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\Project-Main.exe.config
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\Project-Main.exe
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\Project-Main.pdb
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\Guna.UI2.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\EnvDTE.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\stdole.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.AssemblyReference.cache
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.SuggestedBindingRedirects.cache
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.ResolveComReference.cache
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnNhapVaSuaHangHoa.resources
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnThemLoaiSanPham.resources
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formBtnThongTinHangHoa.resources
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formKho.resources
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formBtnQuanLyTaiKhoan.resources
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formQuanLy.resources
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project_Main.Form_QuanLy.Formquanlydoanhthu.resources
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project_Main.formBtnXuatHangHoa.resources
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project_Main.form_thungan.Formprint.resources
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project_Main.form_thungan.formthungan.resources
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.formLogin.resources
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Sell_Clothes_Project.FManageSellClothes.resources
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project_Main.Properties.Resources.resources
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.GenerateResource.cache
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.CoreCompileInputs.cache
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project-Main.csproj.CopyComplete
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project-Main.exe
+D:\c#\baitaplon\Project-Main\Project-Main\obj\Debug\Project-Main.pdb
