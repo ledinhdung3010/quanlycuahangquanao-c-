@@ -85,7 +85,7 @@ Create Table BillDetail
 	MaHD varchar(10)Not null,
 	MaSP char(10) Not null,
 	TenSP nvarchar(300)not null,
-	SoLuong char(10) Not null,
+	SoLuong int Not null,
 	DonGia char(10) Not null,
 	TaiKhoan nvarchar(100) Not null,
 	TenND nvarchar(100) Not null,
